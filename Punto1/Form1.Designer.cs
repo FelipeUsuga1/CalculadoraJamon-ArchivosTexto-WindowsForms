@@ -212,7 +212,7 @@ namespace Punto1
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(318, 357);
+            this.btnCalcular.Location = new System.Drawing.Point(317, 357);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(95, 39);
             this.btnCalcular.TabIndex = 9;
@@ -247,7 +247,7 @@ namespace Punto1
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Jamon ITM";
             this.grbPagar.ResumeLayout(false);
             this.grbPagar.PerformLayout();
             this.ResumeLayout(false);
