@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libRnPunto1\libRnPunto1\bin\Debug\libRnPunto1.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libRnPunto1\libRnPunto1\bin\Debug\libRnPunto1.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libRnPunto1\libRnPunto1\obj\Debug\libRnPunto1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libRnPunto1\libRnPunto1\obj\Debug\libRnPunto1.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libRnPunto1\libRnPunto1\obj\Debug\libRnPunto1.pdb

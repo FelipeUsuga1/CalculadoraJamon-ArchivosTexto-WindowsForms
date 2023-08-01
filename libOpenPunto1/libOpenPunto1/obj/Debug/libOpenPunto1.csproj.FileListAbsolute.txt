@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\bin\Debug\libOpenPunto1.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\bin\Debug\libOpenPunto1.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\bin\Debug\libRnPunto1.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\bin\Debug\libRnPunto1.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\obj\Debug\libOpenPunto1.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\obj\Debug\libOpenPunto1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\obj\Debug\libOpenPunto1.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\obj\Debug\libOpenPunto1.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #2\libOpenPunto1\libOpenPunto1\obj\Debug\libOpenPunto1.pdb
