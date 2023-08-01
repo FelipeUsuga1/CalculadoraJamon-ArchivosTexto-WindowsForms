@@ -212,7 +212,7 @@ namespace Punto1
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(317, 357);
+            this.btnCalcular.Location = new System.Drawing.Point(322, 357);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(95, 39);
             this.btnCalcular.TabIndex = 9;
